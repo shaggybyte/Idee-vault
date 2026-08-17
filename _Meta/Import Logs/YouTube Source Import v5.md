@@ -47,7 +47,7 @@ Przetworzono **49 wskazanych transkrypcji**. Po zastosowaniu nowej bramy tematyc
 - `d6qnF3vAJyo` → [[Amputacja sprzed 31 tys. lat — opieka i współpraca]]
 - `s4_IOhgJKN8` → [[Czy na szachownicy istnieje życie — Tomasz Miller]]
 - `SQlU7I-AA0k` → [[Jak komary zmieniły bieg historii]]
-- `vkZYw-iybpU` → [[Nerwowe labradory — stereotyp rasy i projekt badania]]
+- `vkZYw-iybpU` → *Nerwowe labradory — stereotyp rasy i projekt badania* *(usunięto z kanonu w v6: jednorazowy przykład metodologiczny bez trwałego węzła)*
 
 ### Dane, AI i metodologia — tylko warstwa ideowa
 - `j5tmYnpkMUQ` → [[Mamy czarną dziurę — pośredni pomiar, AI i koewolucja]]

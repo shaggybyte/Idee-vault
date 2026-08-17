@@ -37,5 +37,7 @@ Baza wiedzy projektu **Idee**. Podstawową jednostką organizacji jest pytanie, 
 - [[Ideas Profile Extension]]
 - [[Vault Version]]
 - [[Vault Changelog]]
+- [[README]] — architektura i hierarchia źródeł.
+- [[Notes to integrate]] — roboczy inbox materiałów oczekujących na integrację.
 
 Start eksploracji: [[Idee MOC]].

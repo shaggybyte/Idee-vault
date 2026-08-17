@@ -173,6 +173,41 @@ Przy dużym imporcie odrzucone materiały zapisuj **tylko w logu importu** z kr�
 ### 12.6. Audyt wsteczny
 Po zmianie zakresu sprawdź istniejący vault. Usuń pliki czysto techniczne, popraw wikilinki i MOC-y, a materiały mieszane zredukuj do warstwy ideowej. Historia Git jest wystarczającą ścieżką odzyskania usuniętej treści.
 
+## 13. Retencja źródeł — kanon nie jest archiwum
+
+`Sources/` przechowuje **źródła użyteczne dla grafu**, nie wszystko, co kiedykolwiek przeczytano lub obejrzano. Import i retencja są dwoma osobnymi decyzjami: materiał może być początkowo zachowany, a późniejszy pełny audyt może wykazać, że nie zasługuje na stałe miejsce.
+
+### 13.1. Kiedy źródło powinno zostać
+Zachowaj źródło, jeżeli spełnia co najmniej jeden mocny warunek:
+- dostarcza unikalnej kotwicy lub kontrkotwicy dla ważnego twierdzenia;
+- realnie zmienia `Concept`, `Debate` lub `Synthesis`;
+- jest wielokrotnie używanym źródłem pierwszego wyboru dla ważnego mechanizmu;
+- jest szczególnie dobrym przykładem metody, błędu lub sposobu wnioskowania, którego nie zastępuje lepsze źródło;
+- jest potrzebne do zachowania pochodzenia ważnego twierdzenia w kanonie.
+
+### 13.2. Kiedy źródło można usunąć
+Przy pełnym audycie rozważ usunięcie, gdy materiał:
+- ma `integration_weight: low` / `low-medium` i jest redundantny wobec lepszego źródła;
+- jest podłączony głównie przez MOC lub log importu, ale nie wnosi unikalnej treści do grafu;
+- jest szerokim roundupem, jednorazową ciekawostką albo ilustracją bez trwałego mechanizmu;
+- został zastąpiony pełniejszym materiałem tego samego autora / wykładu;
+- po zmianie zakresu wpada pod [[Ideas Profile Extension#12. Brama tematyczna — czym Idee nie są|bramę tematyczną]].
+
+Niski stopień grafu jest **sygnałem do przeglądu, nie automatycznym powodem kasowania**. Źródło może być ważne właśnie jako pojedyncza kontrkotwica.
+
+### 13.3. Status `catalogued` jest tymczasowy
+W trwałym kanonie nie przechowuj bez końca materiałów oznaczonych wyłącznie jako `catalogued*`. Przy najbliższym pełnym audycie podejmij decyzję: **integrate albo prune**.
+
+### 13.4. Integralność po usunięciu
+Po usunięciu źródła:
+1. popraw MOC-y i wszystkie aktywne wikilinki;
+2. w historycznych logach importu zachowaj nazwę i powód decyzji, ale nie zostawiaj martwego wikilinku;
+3. ponownie sprawdź osiągalność i duplikaty;
+4. nie twórz folderu „odrzucone” tylko po to, aby zachować treść — historię zapewnia Git.
+
+### 13.5. Pełny audyt zakresu
+Pełny audyt vaultu zawsze obejmuje również zakres semantyczny **wszystkich istniejących źródeł**, nie tylko najnowszego importu. Sprawdza w szczególności czyste IT, materiały AI bez warstwy ideowej, źródła `catalogued*`, niską wagę integracji, redundantne rozmowy i naukowe ciekawostki bez trwałego połączenia.
+
 ## Szablony
 - [[Concept Template]]
 - [[Debate Template]]

@@ -25,7 +25,7 @@ reviewed: "2026-08-17"
 
 ## Kontrprzykład jakości źródła
 
-Głośne badanie o decyzjach izraelskich komisji zwolnień warunkowych wykazało silny związek między pozycją sprawy w sesji / przerwami a korzystnym rozstrzygnięciem. Autorzy sami zaznaczali jednak, że nie mogli rozdzielić wpływu jedzenia od odpoczynku. Późniejsza krytyka wskazywała dodatkowo na możliwy wpływ kolejności spraw i pominiętych zmiennych. Dlatego vault **nie używa skrótu „głodny sędzia wydaje surowszy wyrok” jako ustalonego mechanizmu**.
+Głośne [[Extraneous factors in judicial decisions — Danziger et al. 2011|badanie Danzigera i współautorów]] o decyzjach izraelskich komisji zwolnień warunkowych wykazało silny związek między pozycją sprawy w sesji / przerwami a korzystnym rozstrzygnięciem. Autorzy sami zaznaczali jednak, że nie mogli rozdzielić wpływu jedzenia od odpoczynku. [[Overlooked factors in the analysis of parole decisions — Weinshall-Margel i Shapard 2011|Późniejsza krytyka]] wskazywała dodatkowo na możliwy wpływ kolejności spraw i pominiętych zmiennych, a [[Extraneous factors persist — Danziger et al. reply 2011|odpowiedź autorów]] broniła części pierwotnego efektu. Dlatego vault **nie używa skrótu „głodny sędzia wydaje surowszy wyrok” jako ustalonego mechanizmu**.
 
 ## Połączenia
 

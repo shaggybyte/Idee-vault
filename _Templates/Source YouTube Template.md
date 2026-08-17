@@ -53,4 +53,10 @@ Jeśli materiał zawiera ważne twierdzenie empiryczne, podaj publikację pierwo
 
 Oddziel wypowiedź rozmówcy od pytania/prowadzenia, formalizm od metafory oraz spekulację od aktualnego konsensusu.
 
+## Test retencji
+
+- Co jest w tym źródle unikalne względem lepszych materiałów już w vaulcie?
+- Czy po integracji pozostaje trwały powód, aby źródło było kanoniczne?
+- Jeśli odpowiedź brzmi „nie”, zachowaj decyzję w logu importu i **prune** zamiast budować archiwum ciekawostek.
+
 Up: [[YouTube źródła MOC]]

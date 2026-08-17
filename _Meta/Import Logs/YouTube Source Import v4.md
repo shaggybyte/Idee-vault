@@ -36,7 +36,7 @@ Transkrypcja automatyczna była traktowana jako warstwa dostępu, nie jako źró
 | 10 | `Information is physical` `2uMkThXsNoM` | **duplicate/partial** — scalono z #23 |
 | 11 | [[Stany splątane — Copernicus]] | medium — wsparcie informacji kwantowej i AI/nauki |
 | 12 | [[Mechanika kwantowa i upadek starej fizyki — Andrzej Dragan]] | medium — formalizm vs ontologia; retoryka oznaczona jako interpretacyjna |
-| 13 | [[Andrzej Dragan — bezczelny fizyk]] | low–medium — źródło stanowiska o praktyce nauki; wysoka redundancja |
+| 13 | *Andrzej Dragan — bezczelny fizyk* *(usunięto z kanonu w v6: redundancja)* | low–medium — źródło stanowiska o praktyce nauki; wysoka redundancja |
 | 14 | [[Co nam daje nauka — Andrzej Dragan]] | **high** — model, formalizm, skuteczność i rozumienie |
 | 15 | [[Fizyka cząstek elementarnych]] | medium–high — teoria efektywna, inferencja z detektora, estetyka vs dane |
 | 16 | [[Z czym płaskoziemcy mają rację — Andrzej Dragan]] | medium — rozumienie, formalizm, epistemiczna pokora |
@@ -50,7 +50,7 @@ Transkrypcja automatyczna była traktowana jako warstwa dostępu, nie jako źró
 | 19 | [[Mechanika kwantowa dla humanistów — Tomasz Stebel]] | **high** — formalizm, obserwable, granica popularyzacji |
 | 20 | [[Małe mózgi vs duże mózgi — Copernicus]] | medium — modele zwierzęce, świadomość, 3R |
 | 21 | [[Czy AI zastąpi fizyków — Dragan i Janowski]] | medium–high — [[AI a odkrycie naukowe]]; prognozy pozostawione jako OPEN QUESTION |
-| 22 | [[Psychologia tłumu — Analizy Live]] | **low** — skatalogowano; uproszczonego modelu „trzech mózgów” nie propagowano |
+| 22 | *Psychologia tłumu — Analizy Live* *(usunięto z kanonu w v6: niski przyrost ideowy / słaba jakość źródła)* | **low** — skatalogowano; uproszczonego modelu „trzech mózgów” nie propagowano |
 | 23 | [[Informacja jest fizyczna — Artur Ekert]] | **high** — kanoniczny pełny zapis wykładu, scalenie z #10 |
 | 24 | [[Paradoks Newcomba — Veritasium]] | **high** — teoria decyzji i precommitment |
 
@@ -59,13 +59,13 @@ Transkrypcja automatyczna była traktowana jako warstwa dostępu, nie jako źró
 | # | Materiał | Dyspozycja |
 |---|---|---|
 | 25 | [[Od Kopernika do kwantowej grawitacji]] | medium–high — modele, prostota, historia testów |
-| 26 | [[Dragan i Stanowski]] | low–medium — źródło pomocnicze; sporny program nie awansował do faktu |
+| 26 | *Dragan i Stanowski* *(usunięto z kanonu w v6: redundancja)* | low–medium — źródło pomocnicze; sporny program nie awansował do faktu |
 | 27 | [[Historia kosmologii]] | medium — modele kosmologiczne i falsyfikacja stanu stacjonarnego |
 | 28 | [[Mózg nie psuje się sam — Marek Kaczmarzyk]] | medium — modele świata, niedopasowanie; szerokie tezy ostrożnie |
 | 29 | [[Czas — Krzysztof Meissner]] | medium — pomiarowa strzałka czasu zachowana jako **stanowisko** |
 | 30 | [[Model CCC]] | medium — **hipoteza alternatywna**; dodano publikacje CCC i negatywne reanalizy CMB |
 | 31 | [[Czy materia nieorganiczna może być żywa]] | medium — nowy spór definicji życia poza substratem |
-| 32 | [[Czytamy naturę 146]] | low–medium — przede wszystkim przykład dobrej komunikacji ograniczeń badań |
+| 32 | *Czytamy naturę 146* *(usunięto z kanonu w v6: materiał typu roundup bez unikalnego węzła)* | low–medium — przede wszystkim przykład dobrej komunikacji ograniczeń badań |
 | 33 | [[A Simple Diagram — Space and Time]] | medium — relatywność jednoczesności; jawna granica wynik ↔ wizualizacja autora |
 
 ## Główne nowe węzły

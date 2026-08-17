@@ -30,6 +30,12 @@ Vault jest rozwijaną bazą wiedzy projektu **Idee**. Nie zawiera kopii pełnych
 
 Typ źródła jest widoczny i ma znaczenie. Wykład eksperta może być świetnym źródłem mapy problemu lub stanowiska, ale ważne techniczne twierdzenie empiryczne z YouTube powinno — gdy to możliwe — prowadzić dalej do publikacji pierwotnej. Automatyczna transkrypcja jest warstwą dostępu, nie gwarancją poprawności terminologii.
 
+## Zakres i retencja
+
+Vault jest **problemowo-ideowy, nie techniczny**. Czyste IT, programowanie, infrastruktura, cybersecurity i tutoriale narzędziowe należą do osobnego vaultu. AI trafia tutaj tylko przez trwałe pytania o inteligencję, świadomość, autonomię, naukę, władzę, prywatność lub społeczeństwo.
+
+Również materiał naukowy nie jest zachowywany wyłącznie dlatego, że jest ciekawy. `Sources/` ma przechowywać źródła, które realnie zasilają graf: wnoszą mechanizm, spór, kotwicę, kontrkotwicę albo ważny przykład metodologiczny. Redundantne roundupy i jednorazowe ciekawostki mogą zostać usunięte podczas pełnego audytu; historia Git zachowuje ślad decyzji.
+
 Szczegóły: [[Ideas Profile Extension]].
 
 Up: [[Home]]

@@ -20,7 +20,6 @@ Popularyzacja musi kompresować. Usuwa formalizm, warunki brzegowe i część za
 - [[Z czym płaskoziemcy mają rację — Andrzej Dragan]] jawnie opisuje kompromis między ścisłością a komunikatywnością i nacisk na pytanie „dlaczego?”.
 - [[Mechanika kwantowa dla humanistów — Tomasz Stebel]] stawia mocną granicę: bez matematyki można poznać kilka konsekwencji teorii, ale nie sam formalizm.
 - [[A Simple Diagram — Space and Time]] wyraźnie zaznacza moment przejścia od standardowego paradoksu relatywistycznego do własnej wizualizacji.
-- [[Czytamy naturę 146]] pokazuje wartościową praktykę: wynik przedstawia się razem z ograniczeniami próby i pomiaru.
 
 ## Pokora ≠ relatywizm
 

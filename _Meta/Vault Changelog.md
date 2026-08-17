@@ -7,6 +7,21 @@ reviewed: "2026-08-17"
 
 # Vault Changelog
 
+## v6 — 2026-08-17
+
+Pełny raport: [[Vault Audit v6]].
+
+- wykonano **pełny lokalny audyt całego `main`**, a nie audyt różnicowy: snapshot GitHuba został odtworzony lokalnie i zweryfikowany Git blob SHA dla wszystkich 225 plików przed zmianami;
+- poprawiono historyczne niedoszacowanie liczby Markdown: snapshot v5 miał **223 pliki `.md`** (222 niepuste/treściowe + pusty placeholder `_Inbox`), a nie 222 ogółem;
+- pełny parser potwierdził przed poprawkami: 0 błędów YAML, 0 duplikatów basename, 0 niedomkniętych fence'ów i 0 nierozwiązanych wikilinków; ujawnił natomiast 5 nieosiągalnych plików i niepełny [[YouTube źródła MOC]];
+- podłączono do kanonu trzy zewnętrzne źródła sporu o decyzje komisji zwolnień warunkowych przez [[Szum w osądach i higiena decyzyjna]];
+- [[README]] i [[Notes to integrate]] są teraz osiągalne od [[Home]], a `_Inbox` ma poprawny frontmatter i jasną funkcję;
+- przebudowano [[YouTube źródła MOC]] jako **kompletny indeks 56 zachowanych źródeł YouTube**;
+- w pełnym audycie zakresu usunięto 5 starszych materiałów, które nie przechodziły obecnej bramy retencji: *Psychologia tłumu — Analizy Live*, *Czytamy naturę 146*, *Dragan i Stanowski*, *Andrzej Dragan — bezczelny fizyk* oraz *Nerwowe labradory — stereotyp rasy i projekt badania*; historyczne logi zachowują nazwy i powody bez martwych wikilinków;
+- audyt zakresu potwierdził, że w aktywnym kanonie nie ma samodzielnych notatek czysto IT; pozostałe wątki AI dotyczą inteligencji, autonomii, epistemologii, prywatności, nauki lub społeczeństwa;
+- dodano do [[Ideas Profile Extension]] trwałą regułę **retencji źródeł**: `Sources/` jest kuratowanym zapleczem grafu, nie archiwum wszystkiego, co obejrzano/przeczytano; zaktualizowano [[Source YouTube Template]] i [[README]];
+- po poprawkach pełny parser daje **0 nierozwiązanych linków, 0 duplikatów, 0 błędów frontmatteru, 0 niedomkniętych bloków i 0 nieosiągalnych notatek**.
+
 ## v5 — 2026-08-17
 
 Pełny log: [[YouTube Source Import v5]]. Audyt: [[Vault Audit v5]].

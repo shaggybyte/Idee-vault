@@ -11,7 +11,7 @@ reviewed: "2026-08-17"
 
 [[Relativity of superluminal observers — Dragan et al. 2022]] rozwija formalne rozszerzenie szczególnej teorii względności na nadświetlne inercjalne układy odniesienia i argumentuje, że wymusza ono odejście od dynamiki punktowych cząstek ku opisowi polowemu. Wcześniejsze i późniejsze prace autorów wiążą ten program z próbą rekonstrukcji elementów struktury kwantowej.
 
-[[Dlaczego fizyka kwantowa działa — Andrzej Dragan]] oraz [[Dragan i Stanowski]] przedstawiają tę ideę popularnie.
+[[Dlaczego fizyka kwantowa działa — Andrzej Dragan]] przedstawia tę ideę popularnie; techniczna podstawa programu pozostaje w publikacji źródłowej.
 
 ## Steelman
 
