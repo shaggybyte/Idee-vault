@@ -1,68 +1,43 @@
 ---
-title: "Idee — mapa główna"
+title: "Idee — MOC"
 type: moc
 tags: [idee, moc]
 reviewed: "2026-08-17"
 ---
 
-# Idee — mapa główna
+# Idee — MOC
 
-Ta mapa organizuje wiedzę według problemów, a nie według bibliotecznej kolejności książek.
+## Główne osie
 
-## Człowiek jako gatunek społeczny
-- [[Człowiek i ewolucja MOC]]
-- [[Mózg społeczny]]
-- [[Mentalizacja]]
-- [[Narracja jako technologia społeczna]]
-- [[Narracja, mentalizacja i współpraca na dużą skalę]]
+- [[Umysł i poznanie MOC]] — heurystyki, świadomość, uczenie, modele umysłu.
+- [[Człowiek i ewolucja MOC]] — homininy, mózg społeczny, kultura i koewolucja.
+- [[Wolna wola, determinizm i sprawczość MOC]] — przyczynowość, chaos, przypadkowość, emergencja.
+- [[Niepewność, ryzyko i przewidywalność MOC]] — Taleb, chaos, szum i granice predykcji.
+- [[Wpływ, decyzje i komunikacja MOC]] — bias, szum, perswazja, procedury i racjonalność.
+- [[Dane, algorytmy i władza MOC]] — profilowanie, autonomia, sprzężenia użytkownik–algorytm.
+- [[Fizyka, informacja i rzeczywistość MOC]] — kwanty, czas, informacja, modele, kosmologia i filozofia nauki.
 
-## Od środowiska do społeczeństwa
-- [[Łańcuch przyczyn środowiskowo-historycznych]]
-- [[Geografia a sprawczość w historii]]
-- [[Od środowiska do instytucji — Diamond, Dunbar i Harari]]
+## Syntezy przekrojowe
 
-## Przyczynowość, wolność i granice przewidywania
-- [[Wolna wola, determinizm i sprawczość MOC]]
-- [[Niepewność, ryzyko i przewidywalność MOC]]
-- [[Trzy granice nieprzewidywalności]]
-- [[Determinizm a przewidywalność]]
-- [[Autopilot, narracyjne ja i przestrzeń reakcji]]
-
-## Jak umysł skraca świat
-- [[Umysł i poznanie MOC]]
-- [[System 1 i System 2]]
-- [[Heurystyki i błędy poznawcze]]
-- [[Uważność]]
-- [[Od heurystyki do wpływu]]
-
-## Dane, algorytmy i władza
-- [[Dane, algorytmy i władza MOC]]
-- [[Mikrotargeting i profilowanie psychologiczne]]
-- [[Prywatyzacja dyskursu publicznego]]
-- [[Czy mikrotargeting podważa autonomię polityczną]]
-- [[Od danych do zachowania — Kahneman, Cialdini, Harari i Wylie]]
-
-## Jak działać bez trafnej prognozy
-- [[Antykruchość]]
-- [[Opcjonalność]]
-- [[Wypukłość, asymetria i ekspozycja]]
-- [[Niepredyktywne podejmowanie decyzji]]
 - [[Jak myśleć i działać pod głęboką niepewnością]]
+- [[Trzy granice nieprzewidywalności]]
+- [[Narracja, mentalizacja i współpraca na dużą skalę]]
+- [[Od danych do zachowania — Kahneman, Cialdini, Harari i Wylie]]
+- [[Od środowiska do instytucji — Diamond, Dunbar i Harari]]
+- [[Autopilot, narracyjne ja i przestrzeń reakcji]]
+- [[Od szumu do procedury — struktura decyzji]]
+- [[Granice intuicji — umysł, fizyka i modele]]
 
-## Społeczeństwo i idee polityczne
-- [[Społeczeństwo, ideologie i narracje MOC]]
-- [[Liberalizm jako szeroka narracja polityczna]]
-- [[Spójność ideologii politycznych]]
-- [[Ideologiczne sprzeczności jako konflikt wielu osi]]
+## Źródła
 
-## Mosty przekrojowe między książkami
-- [[Mosty między książkami — mapa przekrojowa]] — centralna mapa przecinająca autorów i poziomy analizy.
-- Każda pełnotekstowa książka powinna mieć kotwice źródłowe oraz jawne połączenia do Concepts / Debates / Syntheses.
-- Nowe źródła przechodzą obowiązkowy [[Ideas Profile Extension#10. Cykl integracji nowego źródła|cykl integracji]], który może aktualizować także starsze notatki.
+- książki: `Sources/Books/`;
+- publikacje weryfikacyjne: `Sources/External/`;
+- materiały projektu: `Sources/Project/`;
+- **YouTube i transkrypcje:** [[YouTube źródła MOC]] — osobny korpus, niezmieszany z książkami.
 
-## Źródła i autorzy
-- [[Książki źródłowe MOC]]
-- [[Materiały projektu MOC]]
-- [[Myśliciele MOC]]
+## Standard pracy
+
+- [[Ideas Profile Extension]]
+- [[Vault Changelog]]
 
 Up: [[Home]]

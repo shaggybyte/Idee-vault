@@ -1,44 +1,38 @@
 ---
-title: "Ideas Knowledge Vault — Home"
-type: moc
+title: "Ideas Knowledge Vault"
+type: home
 tags: [idee, home]
-reviewed: "2026-08-13"
+reviewed: "2026-08-17"
 ---
 
 # Ideas Knowledge Vault
 
-> [!summary] Cel
-> To vault problemowo-ideowy. Punktem wyjścia są **pytania, pojęcia i spory**, a nie nazwiska autorów. Książki i autorzy są warstwą źródłową, która zasila wiedzę kanoniczną.
+Baza wiedzy projektu **Idee**. Podstawową jednostką organizacji jest pytanie, pojęcie lub spór; źródła zachowują pochodzenie tez, ale nie są silosami prawdy.
 
-## Start
+## Główne mapy
 
-- [[Idee MOC]] — główna mapa całego vaultu.
-- [[Człowiek i ewolucja MOC]] — homininy, mózg społeczny, mentalizacja, kultura.
-- [[Umysł i poznanie MOC]] — heurystyki, intuicja, świadomość i modele poznawcze.
-- [[Wolna wola, determinizm i sprawczość MOC]] — Sapolsky, chaos, emergencja, losowość.
-- [[Niepewność, ryzyko i przewidywalność MOC]] — Taleb, chaos, asymetria i decyzje bez prognozy.
-- [[Społeczeństwo, ideologie i narracje MOC]] — ideologie, opowieści zbiorowe, liberalizm, współpraca.
-- [[Wpływ, decyzje i komunikacja MOC]] — Kahneman, Cialdini, perswazja, typologie komunikacyjne.
+- [[Idee MOC]] — mapa całego vaultu.
+- [[Umysł i poznanie MOC]]
+- [[Człowiek i ewolucja MOC]]
+- [[Wolna wola, determinizm i sprawczość MOC]]
+- [[Niepewność, ryzyko i przewidywalność MOC]]
+- [[Wpływ, decyzje i komunikacja MOC]]
+- [[Dane, algorytmy i władza MOC]]
+- [[Fizyka, informacja i rzeczywistość MOC]]
 
-## Jak czytać notatki
+## Warstwy źródłowe
 
-W ważniejszych notatkach stosowane są znaczniki pochodzenia:
+- `Sources/Books/` — książki i monografie.
+- `Sources/YouTube/` — osobna warstwa materiałów audiowizualnych i transkrypcji: [[YouTube źródła MOC]].
+- `Sources/External/` — publikacje i zewnętrzne materiały weryfikacyjne.
+- `Sources/Project/` — artefakty i syntezy powstałe w projekcie.
 
-- **SOURCE CLAIM** — stanowisko rzeczywiście obecne w źródle,
-- **INTERPRETATION** — rekonstrukcja znaczenia lub argumentu,
-- **EXTERNAL EVIDENCE** — niezależna weryfikacja,
-- **SYNTHESIS** — wniosek łączący kilka źródeł,
-- **OPEN QUESTION** — kwestia nierozstrzygnięta.
+Źródła YouTube **nie są mieszane z książkami** ani traktowane automatycznie jako równoważny poziom dowodowy.
 
-Zasady szczegółowe: [[Ideas Profile Extension]].
+## Meta
 
-## Warstwa źródłowa
+- [[Ideas Profile Extension]]
+- [[Vault Version]]
+- [[Vault Changelog]]
 
-- [[Książki źródłowe MOC]]
-- [[Materiały projektu MOC]]
-- [[Myśliciele MOC]]
-- [[README|Ideas Knowledge Vault — README]] — architektura i zasady użytkowania.
-
-## Stan
-
-Pierwsze wydanie: [[Vault Version]]. Historia zmian: [[Vault Changelog]]. Kontrola spójności: [[Vault Audit v1]].
+Start eksploracji: [[Idee MOC]].

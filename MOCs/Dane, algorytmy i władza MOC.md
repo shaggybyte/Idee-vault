@@ -8,21 +8,37 @@ reviewed: "2026-08-17"
 # Dane, algorytmy i władza
 
 ## Dane jako asymetria
+
 - [[Algorytmy a samowiedza i autonomia]] — czy predykcja oznacza „znajomość człowieka”?
 - [[Mikrotargeting i profilowanie psychologiczne]] — od śladów danych do segmentu i przekazu.
 - [[Prywatyzacja dyskursu publicznego]] — gdy polityczny przekaz przestaje być wspólnie obserwowalny.
 
+## Sprzężenia zwrotne
+
+[[W sieci algorytmów — Copernicus]] dodaje do istniejącego grafu pętlę: preferencje → rekomendacje → środowisko ekspozycji → kolejne zachowania i preferencje. Z tego powodu model nie musi być tylko zewnętrznym obserwatorem użytkownika.
+
 ## Perswazja
+
 - [[Automatyzmy wpływu społecznego]]
 - [[Heurystyki i błędy poznawcze]]
 - [[Czy mikrotargeting podważa autonomię polityczną]]
 - [[Od danych do zachowania — Kahneman, Cialdini, Harari i Wylie]]
 
-## Źródła
+## AI
+
+- [[Operacjonalizacja inteligencji]]
+- [[AI a odkrycie naukowe]]
+
+## Źródła książkowe
+
 - [[Mindfck — Christopher Wylie]]
 - [[21 lekcji na XXI wiek — Yuval Noah Harari]]
 - [[Pułapki myślenia — Daniel Kahneman]]
 - [[Wywieranie wpływu na ludzi — Robert Cialdini]]
+
+## Źródła YouTube
+
+Osobno: [[YouTube źródła MOC]].
 
 ## Granica interpretacji
 

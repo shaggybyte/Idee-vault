@@ -129,12 +129,62 @@ Dobrą praktyką jest, aby pełnotekstowo dostępna książka miała kilka do ki
 - **Które cytaty/fragmenty najlepiej przywracają rzeczywisty głos autora?**
 - **Czy stworzyliśmy graf wiedzy, czy tylko kolejne streszczenie książki?**
 
+## 11. Źródła YouTube i transkrypcje
+
+Źródła audiowizualne są w profilu Idee **osobną warstwą pochodzenia**, a nie rozszerzeniem folderu książek.
+
+### Architektura
+
+1. wszystkie kanoniczne notatki dotyczące filmów, wykładów, podcastów i rozmów YouTube przechowuj w `Sources/YouTube/`;
+2. **nie mieszaj** ich z `Sources/Books/`, nawet gdy film omawia książkę;
+3. utrzymuj wspólną mapę [[YouTube źródła MOC]], aby dało się przeglądać korpus źródeł audiowizualnych niezależnie od grafu pojęć;
+4. w `Concepts/`, `Debates/` i `Syntheses/` można łączyć wiedzę z książek, YouTube i publikacji, ale typ źródła musi pozostać czytelny.
+
+### Transkrypcja nie jest klasą dowodu
+
+5. transkrypcja jest **warstwą dostępu do wypowiedzi**, nie automatycznie publikacją naukową ani dowodem równym książce akademickiej;
+6. rozdzielaj co najmniej: wypowiedź eksperta, pytanie lub parafrazę prowadzącego, własną rekonstrukcję oraz ewentualny błąd rozpoznawania mowy;
+7. `caption_type: manual` zwiększa wiarygodność brzmienia tekstu względem `automatic`, ale nie zwiększa samo z siebie wiarygodności merytorycznej tezy;
+8. przy automatycznych napisach techniczne nazwy, symbole, nazwiska i wartości liczbowe traktuj jako podatne na błąd. Jeśli szczegół jest ważny, weryfikuj go w nagraniu albo źródle pierwotnym;
+9. nie cytuj automatycznego ASR jako wiernego sformułowania technicznego bez dodatkowej kontroli. Dla integracji pojęciowej preferuj parafrazę.
+
+### Waga epistemiczna
+
+10. ważne twierdzenie empiryczne z wykładu lub podcastu pozostaje **SOURCE CLAIM**, dopóki nie zostanie wsparte źródłem pierwotnym albo wiarygodną literaturą;
+11. materiały eksperckie mogą być bardzo wartościowe jako mapa problemu, argument, interpretacja i wskazanie literatury, ale nie ukrywaj ich formatu w notatce kanonicznej;
+12. nieortodoksyjna hipoteza, prognoza technologiczna lub stanowisko filozoficzne powinny trafić do `Debates/` jako stanowisko / **OPEN QUESTION**, a nie zostać wygładzone do faktu;
+13. wtórne komentarze, materiały inwestycyjne lub silnie uproszczone popularyzacje można zachować jako źródła niskiego priorytetu bez propagowania ich wszystkich twierdzeń do kanonu;
+14. gdy film przywołuje głośne badanie, sprawdź, czy późniejsza literatura nie zmieniła jego interpretacji. Jeżeli istnieje realny spór, zapisz kontrkotwicę.
+
+### Kotwice i deduplikacja
+
+15. w źródłach YouTube używaj **timestampów** zamiast stron;
+16. nie przechowuj pełnych transkrypcji w vaulcie, jeśli nie ma ku temu osobnego powodu — wystarczy mapa argumentu, kotwice czasowe, ograniczenia i link do źródła;
+17. jeśli dwie transkrypcje lub dwa uploady odnoszą się do tego samego wykładu, utwórz jedną kanoniczną notatkę i zachowaj alternatywne `video_id` / URL / zakres dostępu;
+18. różne rozmowy tego samego eksperta nie są automatycznie duplikatami, ale przy dużej redundancji materiał pomocniczy powinien linkować do lepszego źródła zamiast mnożyć identyczne Concepts.
+
+### Minimalny frontmatter
+
+Dla nowej notatki YouTube zapisuj co najmniej:
+
+- `type: youtube-source`;
+- `video_id` i `source_url`;
+- `channel` i — gdy istotne — `speakers`;
+- `caption_type`;
+- `source_access` (`transcript-full`, `transcript-partial`, `video-only`);
+- `evidence_role`;
+- `integration_weight`;
+- `status`.
+
+Szablon: [[Source YouTube Template]].
+
 ## Szablony
 
 - [[Concept Template]]
 - [[Debate Template]]
 - [[Synthesis Template]]
 - [[Source Book Template]]
+- [[Source YouTube Template]]
 - [[Thinker Template]]
 
 Up: [[Home]]
