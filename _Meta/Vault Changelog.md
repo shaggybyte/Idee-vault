@@ -7,6 +7,22 @@ reviewed: "2026-08-17"
 
 # Vault Changelog
 
+## v4 — 2026-08-17
+
+Pełny log importu: [[YouTube Source Import v4]].
+
+- przetworzono **33 transkrypcje YouTube** i utworzono **32 kanoniczne notatki źródłowe**; dwie wersje wykładu Artura Ekerta zostały poprawnie zdeduplikowane;
+- zgodnie z decyzją użytkownika wprowadzono twardy rozdział `Sources/Books/` ↔ `Sources/YouTube/` oraz utworzono [[YouTube źródła MOC]];
+- rozszerzono [[Ideas Profile Extension]] o osobny standard pracy z filmami i transkrypcjami: jakość napisów, jawny typ źródła, timestampy, deduplikacja, weryfikacja twierdzeń technicznych i oddzielenie wypowiedzi eksperta od interpretacji;
+- dodano **14 Concepts**, w tym [[Świadomość — poziomy i perspektywy badania]], [[Szum w osądach i higiena decyzyjna]], [[Informacja jest fizyczna]], [[Twierdzenie Bella i lokalność]], [[Problem pomiaru kwantowego]], [[Model, formalizm i rzeczywistość]], [[Operacjonalizacja inteligencji]] i [[Granice popularyzacji i epistemiczna pokora]];
+- dodano **11 Debates**, m.in. [[Kwanty a grawitacja — zgodność opisów]], [[Czy rozszerzona względność wyjaśnia strukturę kwantową]], [[Kosmologia standardowa a CCC]], [[Skąd bierze się strzałka czasu]], [[AI a odkrycie naukowe]] i [[Standaryzacja decyzji a swoboda eksperta]];
+- dodano syntezy [[Od szumu do procedury — struktura decyzji]] i [[Granice intuicji — umysł, fizyka i modele]] oraz istotnie rozszerzono [[Trzy granice nieprzewidywalności]];
+- utworzono [[Fizyka, informacja i rzeczywistość MOC]] i zaktualizowano istniejące MOC-y, dzięki czemu nowe źródła nie są osobnym „magazynem filmów”, tylko zasilają istniejący graf;
+- zaktualizowano m.in. [[Mózg społeczny]], [[Losowość, nieoznaczoność i niewiedza]], [[Chaos deterministyczny]] oraz [[Algorytmy a samowiedza i autonomia]];
+- dodano **10 notatek `Sources/External/`** dla krytycznych weryfikacji: Bell, loophole-free Bell, spór o superluminalnych obserwatorów, CCC oraz badanie decyzji komisji zwolnień warunkowych;
+- nie podniesiono automatycznie materiałów popularnych do rangi dowodu: CCC, program Dragana, pomiarowa strzałka czasu i uproszczona psychologia tłumu mają jawnie ograniczony status;
+- wykonano audyt: [[Vault Audit v4]].
+
 ## v3 — 2026-08-17
 
 Pełny log importu: [[Source Import v3]].
