@@ -9,6 +9,9 @@ reviewed: "2026-08-17"
 
 Baza wiedzy projektu **Idee**. Podstawową jednostką organizacji jest pytanie, pojęcie lub spór; źródła zachowują pochodzenie tez, ale nie są silosami prawdy.
 
+> [!important] Zakres
+> Vault **nie jest vaultem IT**. Programowanie, infrastruktura, cybersecurity, konfiguracja, narzędzia i techniczne tutoriale są poza zakresem. AI wchodzi tylko wtedy, gdy materiał wnosi trwały problem dotyczący m.in. inteligencji, świadomości, autonomii, sprawczości, nauki, społeczeństwa, władzy, epistemologii lub filozofii technologii. Szczegóły: [[Ideas Profile Extension#12. Brama tematyczna — czym Idee nie są]].
+
 ## Główne mapy
 
 - [[Idee MOC]] — mapa całego vaultu.

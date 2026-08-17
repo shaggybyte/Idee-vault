@@ -13,23 +13,27 @@ reviewed: "2026-08-17"
 - [[Model masywna kontra wysmukła w ewolucji homininów]]
 - [[Ewolucja człowieka jako drzewo, nie drabina]]
 
-## Przemiany Dunbara
+## Społeczność i kultura
 
 - [[Mózg społeczny]]
 - [[Mentalizacja]]
 - [[Narracja jako technologia społeczna]]
 - [[Opowieści jako przewaga Homo sapiens]]
+- [[Amputacja sprzed 31 tys. lat — opieka i współpraca]] — archeologiczny ślad opieki, nie samodzielny dowód modelu Dunbara.
 
-## Koewolucja i środowisko
+## Koewolucja, rozwój i starzenie
 
 - [[Koewolucja gen–kultura i niedopasowanie ewolucyjne]]
 - [[Plastyczność i stabilizacja mózgu w biegu życia]]
+- [[Rezerwa poznawcza i uczenie się przez całe życie]]
+- [[Starzenie jako problem ewolucyjny]]
 
 ## Od ekologii do historii społeczeństw
 
-- [[Łańcuch przyczyn środowiskowo-historycznych]] — Diamond: warunki środowiskowe → żywność → demografia → technika/instytucje.
-- [[Geografia a sprawczość w historii]] — gdzie kończą się warunki brzegowe, a zaczynają instytucje, decyzje i przypadek.
-- [[Od środowiska do instytucji — Diamond, Dunbar i Harari]] — integracja trzech poziomów.
+- [[Łańcuch przyczyn środowiskowo-historycznych]]
+- [[Geografia a sprawczość w historii]]
+- [[Od środowiska do instytucji — Diamond, Dunbar i Harari]]
+- [[Jak komary zmieniły bieg historii]] — patogen/wektor jako mediator między ekologią a historią.
 
 ## Źródła książkowe
 
@@ -37,11 +41,9 @@ reviewed: "2026-08-17"
 - [[Strzelby, zarazki, maszyny — Jared Diamond]]
 - [[Ewolucja człowieka — semantic graph projektu]]
 - [[Wielkie rozłamy w ewolucji człowieka — grafiki projektu]]
-- [[New discoveries of Australopithecus and Homo from Ledi-Geraru, Ethiopia]]
-- [[Dental morphology in Homo habilis and its implications for the evolution of early Homo]]
 
 ## Źródła YouTube
 
-Osobna warstwa: [[YouTube źródła MOC]], szczególnie [[Co zmieniło bieg ewolucji ludzkiego mózgu — Marek Kaczmarzyk]], [[Czy nasz mózg jeszcze ewoluuje — Marek Kaczmarzyk]] i [[Małe mózgi vs duże mózgi — Copernicus]].
+Osobna warstwa: [[YouTube źródła MOC]].
 
 Up: [[Idee MOC]]

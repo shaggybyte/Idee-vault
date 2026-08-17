@@ -13,6 +13,8 @@ reviewed: "2026-08-17"
 - [[Teoria efektywna]]
 - [[Formalizm a ontologia mechaniki kwantowej]]
 - [[Granice popularyzacji i epistemiczna pokora]]
+- [[Granice wiedzy naukowej]]
+- [[Wiedza z pośrednich śladów]]
 - [[Estetyka teorii a dane empiryczne]]
 - [[Nauka a metafizyka]]
 
@@ -31,24 +33,28 @@ reviewed: "2026-08-17"
 - [[Strzałka czasu]]
 - [[Skąd bierze się strzałka czasu]]
 
-## Kosmologia
+## Kosmologia i życie
 
 - [[Kosmologia standardowa a CCC]]
 - [[Historia kosmologii]]
 - [[Model CCC]]
+- [[Paradoks Fermiego — cisza jako dane czy błąd założeń]]
+- [[Co znaczy żywe poza biochemią]]
 
 ## Informacja, inteligencja i odkrycie
 
 - [[Operacjonalizacja inteligencji]]
 - [[AI a odkrycie naukowe]]
-- [[Co znaczy żywe poza biochemią]]
 
-## Synteza przekrojowa
+AI jest tu obecne wyłącznie jako problem poznania i odkrycia naukowego, nie jako warstwa techniczna.
+
+## Syntezy przekrojowe
 
 - [[Granice intuicji — umysł, fizyka i modele]]
+- [[Od śladu do wiedzy — inferencja bez bezpośredniego dostępu]]
 
 ## Źródła audiowizualne
 
-Cały korpus: [[YouTube źródła MOC]]. Źródła YouTube pozostają osobno od książek i publikacji zewnętrznych.
+Cały korpus: [[YouTube źródła MOC]].
 
 Up: [[Idee MOC]]

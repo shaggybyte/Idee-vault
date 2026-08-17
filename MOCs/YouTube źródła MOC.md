@@ -8,70 +8,84 @@ reviewed: "2026-08-17"
 # YouTube źródła
 
 > [!summary]
-> Osobna warstwa źródłowa dla transkrypcji filmów i rozmów. **Nie jest mieszana z `Sources/Books/`.** Import v4 otrzymał 33 transkrypcje i utworzył 32 kanoniczne notatki źródłowe, ponieważ dwie wersje wykładu Artura Ekerta zostały zdeduplikowane.
+> Osobna warstwa źródłowa dla filmów, wykładów i rozmów. Nie jest mieszana z `Sources/Books/`. Po v5 korpus zawiera źródła z dwóch dużych importów, ale **nie jest archiwum całej historii oglądania** — materiał musi przejść bramę tematyczną Idee.
+
+## Brama zakresu
+
+Czyste IT, programowanie, cybersecurity, infrastruktura i tutoriale narzędziowe są odrzucane. AI pozostaje tylko tam, gdzie materiał dotyczy trwałych pytań o inteligencję, świadomość, autonomię, naukę, władzę lub społeczeństwo. Zob. [[Ideas Profile Extension#12. Brama tematyczna — czym Idee nie są]].
+
+## Epistemologia, fizyka i granice wiedzy
+
+- [[Granice wiedzy we Wszechświecie — Krzysztof Meissner]]
+- [[Nie tylko światło — Sebastian Szybka]]
+- [[Tajemnice kosmosu — Copernicus Festival 2025]]
+- [[Jak mówić bez ust — modele kosmologiczne pod presją danych]]
+- [[Dlaczego prędkość światła jest nieosiągalna — Andrzej Dragan]]
+- [[Czy ruch spowalnia czas — dylatacja i jednoczesność]]
+- [[Fizyka zostanie ukończona za pół roku — Andrzej Dragan]]
+- [[Wykład Andrzeja Dragana na Kongresie Zero — łączenie kropek]]
+- [[Mamy czarną dziurę — pośredni pomiar, AI i koewolucja]]
+
+### wcześniejszy korpus
+- [[Mechanika kwantowa dla humanistów — Tomasz Stebel]]
+- [[Dlaczego fizyka kwantowa działa — Andrzej Dragan]]
+- [[Informacja jest fizyczna — Artur Ekert]]
+- [[Teoria kwantowa vs czarne dziury — Andrzej Dragan]]
+- [[Czas — Krzysztof Meissner]]
+- [[Model CCC]]
+- [[Historia kosmologii]]
+
+## Umysł, świadomość i rozwój
+
+- [[Świadome sny — Piotr Szymanek]]
+- [[Drugi mózg w mózgu — astrocyty i sieci]]
+- [[Dlaczego życie powinno zacząć się po 40-ce — Marek Kaczmarzyk]] — obejmuje także krótszy duplikat `BeLG9B9AJeQ`.
+- [[Ucz się języków — dwujęzyczność i rezerwa poznawcza]]
+- [[Co psuje mózg — Marek Kaczmarzyk]]
+- [[Irena Filozofówna-Schiller — psychologia i teatr]]
+- [[Czym jest świadomość — Copernicus]]
+- [[Dojrzały mózg — Marek Kaczmarzyk]]
+- [[Mózg nie psuje się sam — Marek Kaczmarzyk]]
+
+## Ewolucja, życie i historia
+
+- [[Czy wszyscy muszą umrzeć — Uwaga Naukowy Bełkot]]
+- [[Paradoks Fermiego — przestrzeń i czas]]
+- [[Życie w Kosmosie — Ewolucja]]
+- [[Czy na szachownicy istnieje życie — Tomasz Miller]]
+- [[Amputacja sprzed 31 tys. lat — opieka i współpraca]]
+- [[Jak komary zmieniły bieg historii]]
+- [[Nerwowe labradory — stereotyp rasy i projekt badania]]
+- [[Czy nasz mózg jeszcze ewoluuje — Marek Kaczmarzyk]]
+- [[Co zmieniło bieg ewolucji ludzkiego mózgu — Marek Kaczmarzyk]]
+- [[Małe mózgi vs duże mózgi — Copernicus]]
+- [[Czy materia nieorganiczna może być żywa]]
+
+## Dane, społeczeństwo i wiarygodność
+
+- [[Co można wyczytać z twarzy — Michał Kosiński]]
+- [[Umówiłem się na biorezonans — pseudonauka i nadzieja]]
+- [[Depresja na przedmieściach — korelacja, środowisko i przyczynowość]]
+- [[Zdrowie psychiczne w epoce kryzysu klimatycznego — Jacek Dębiec]]
+- [[W sieci algorytmów — Copernicus]]
+- [[Szum — Kahneman, Sibony i Sunstein — omówienie]]
+
+## AI — wyłącznie pytania ideowe
+
+- [[Czy AI urwała się ze smyczy — cele bez buntu]]
+- [[Nowe wyobrażenie świata — Andrzej Dragan i Piotr Cieśliński]]
+- [[Zagadka piszczących butów — AI a odkrycie fizyczne]]
+- [[Czy AI zastąpi fizyków — Dragan i Janowski]]
+- [[Obliczanie, inteligencja i społeczeństwo — Michael Rovatsos]]
+
+## Nieprzewidywalność i decyzje
+
+- [[Czy istnieje prawdziwy przypadek — Michał Eckstein]]
+- [[Paradoks Newcomba — Veritasium]]
+- [[Psychologia tłumu — Analizy Live]]
 
 ## Reguła czytania
 
-Notatka `youtube-source` dokumentuje **co padło w materiale i co może zasilić graf**. Nie podnosi automatycznie twierdzenia popularyzatorskiego do statusu dowodu naukowego. Szczegóły: [[Ideas Profile Extension#11. Źródła YouTube i transkrypcje]].
-
-## Nieprzewidywalność, decyzje i racjonalność
-
-- [[Czy istnieje prawdziwy przypadek — Michał Eckstein]] — chaos, Bell, pomiar, determinizm.
-- [[Szum — Kahneman, Sibony i Sunstein — omówienie]] — noise i higiena decyzyjna.
-- [[Paradoks Newcomba — Veritasium]] — reguły decyzji, dominacja, precommitment.
-- [[Psychologia tłumu — Analizy Live]] — materiał pomocniczy o zachowaniach rynkowych; niski priorytet dowodowy.
-
-## Umysł, mózg i ewolucja
-
-- [[Czym jest świadomość — Copernicus]]
-- [[Czy nasz mózg jeszcze ewoluuje — Marek Kaczmarzyk]]
-- [[Co zmieniło bieg ewolucji ludzkiego mózgu — Marek Kaczmarzyk]]
-- [[Dojrzały mózg — Marek Kaczmarzyk]]
-- [[Małe mózgi vs duże mózgi — Copernicus]]
-- [[Mózg nie psuje się sam — Marek Kaczmarzyk]]
-
-## Algorytmy, AI i informacja
-
-- [[Obliczanie, inteligencja i społeczeństwo — Michael Rovatsos]]
-- [[W sieci algorytmów — Copernicus]]
-- [[Informacja jest fizyczna — Artur Ekert]] — kanoniczna notatka dla `ISpyOvrMYuQ` oraz częściowego duplikatu `2uMkThXsNoM`.
-- [[Stany splątane — Copernicus]]
-- [[Czy AI zastąpi fizyków — Dragan i Janowski]]
-
-## Mechanika kwantowa i względność
-
-- [[Teoria kwantowa vs czarne dziury — Andrzej Dragan]]
-- [[Mechanika kwantowa i upadek starej fizyki — Andrzej Dragan]]
-- [[Dlaczego fizyka kwantowa działa — Andrzej Dragan]] — stanowisko nieortodoksyjne, jawnie oznaczone jako sporne.
-- [[Mechanika kwantowa dla humanistów — Tomasz Stebel]]
-- [[Czas — Krzysztof Meissner]] — teza o pomiarowej strzałce czasu zachowana jako stanowisko.
-- [[A Simple Diagram — Space and Time]]
-
-## Nauka, metodologia i historia fizyki
-
-- [[Andrzej Dragan — bezczelny fizyk]]
-- [[Co nam daje nauka — Andrzej Dragan]]
-- [[Fizyka cząstek elementarnych]]
-- [[Z czym płaskoziemcy mają rację — Andrzej Dragan]]
-- [[Fizyka a wiara — Krzysztof Meissner]]
-- [[Od Kopernika do kwantowej grawitacji]]
-- [[Dragan i Stanowski]]
-- [[Historia kosmologii]]
-- [[Czytamy naturę 146]]
-
-## Kosmologia i definicje graniczne
-
-- [[Model CCC]] — hipoteza alternatywna, z zewnętrznymi kontrkotwicami obserwacyjnymi.
-- [[Czy materia nieorganiczna może być żywa]] — życie jako problem definicyjny i informacyjny.
-
-## Najmocniej rozwinięte węzły kanoniczne
-
-- [[Świadomość — poziomy i perspektywy badania]]
-- [[Szum w osądach i higiena decyzyjna]]
-- [[Twierdzenie Bella i lokalność]]
-- [[Informacja jest fizyczna]]
-- [[Model, formalizm i rzeczywistość]]
-- [[Operacjonalizacja inteligencji]]
-- [[Granice popularyzacji i epistemiczna pokora]]
+Notatka `youtube-source` dokumentuje, co materiał wnosi do grafu. Transkrypcja jest warstwą dostępu do wypowiedzi, a nie automatycznie klasą dowodu. Techniczne szczegóły z ASR pozostają podatne na błąd.
 
 Up: [[Home]]

@@ -4,63 +4,44 @@ type: debate
 tags: [technologia, autonomia, data]
 reviewed: "2026-08-17"
 ---
-
 # Czy algorytmy mogą znać człowieka lepiej niż on sam?
 
 ## Teza Harariego
-
-**SOURCE CLAIM:** w [[21 lekcji na XXI wiek — Yuval Noah Harari]] Harari rozważa możliwość, że połączenie danych biometrycznych, psychologii i uczenia maszynowego pozwoli systemom przewidywać niektóre preferencje lub emocje lepiej niż introspekcja jednostki. Łączy to z kryzysem liberalnej wiary w autonomiczne „słuchaj siebie”.
+**SOURCE CLAIM:** w [[21 lekcji na XXI wiek — Yuval Noah Harari]] Harari rozważa możliwość, że połączenie danych biometrycznych, psychologii i uczenia maszynowego pozwoli systemom przewidywać niektóre preferencje lub emocje lepiej niż introspekcja jednostki.
 
 ## Warstwa praktyczna Wyliego
+[[Mindfck — Christopher Wylie]] opisuje systemy łączące ślady danych, segmentację, psychometrię i dobór przekazu. To osłabia potrzebę ekstremalnej tezy „algorytm zna całego człowieka”: przewaga może pojawić się już w jednym zadaniu predykcyjnym.
 
-**SOURCE CLAIM:** [[Mindfck — Christopher Wylie]] opisuje systemy, które nie próbowały rekonstruować „całego człowieka”. Łączyły ślady danych, segmentację, modele psychometryczne i behawioralne oraz dobór przekazu do grup odbiorców.
+## Nowa warstwa v5 — inferencja bez zgody na cechę
+[[Co można wyczytać z twarzy — Michał Kosiński]] przesuwa problem z historii zachowania na [[Prywatność inferencyjna|inferencję cech]]. System może próbować odtworzyć Y z X, choć użytkownik ujawnił tylko X.
 
-**INTERPRETATION:** to osłabia potrzebę stawiania ekstremalnej tezy „algorytm zna cię lepiej niż ty”. Przewaga może pojawić się wcześniej — gdy system zna **jedną istotną korelację** lepiej, szybciej testuje hipotezy i kontroluje ekspozycję.
+**SYNTHESIS:** pytanie „czy zna mnie lepiej?” jest zbyt globalne. Trafniejsze są pytania zadaniowe: **jaką cechę, z jakich danych, z jaką trafnością, dla jakiej populacji i czy wynik jest stabilny poza próbą?**
 
 ## Pętla użytkownik–algorytm
+[[W sieci algorytmów — Copernicus]] pokazuje sprzężenie: preferencje → rekomendacje → środowisko ekspozycji → kolejne zachowania. Model może więc stać się częścią dynamiki, którą później mierzy.
 
-**SOURCE CLAIM — YouTube:** [[W sieci algorytmów — Copernicus]] dodaje ważny mechanizm sprzężenia zwrotnego. Początkowe preferencje wpływają na rekomendacje, ale rekomendacje zmieniają środowisko ekspozycji, w którym ujawniane i kształtowane są kolejne preferencje.
+## Cztery poziomy
+1. opis cechy;
+2. predykcja zachowania;
+3. zmiana prawdopodobieństwa zachowania;
+4. kontrola zachowania.
 
-**SYNTHESIS:** w takim układzie predykcja nie jest neutralnym odczytem stałego obiektu. Model może stać się częścią dynamiki, którą później mierzy. To nie jest jeszcze „kontrola”, ale komplikuje prosty podział na użytkownika i zewnętrznego obserwatora.
+Nie wolno przechodzić między nimi bez dodatkowych dowodów.
 
-## Cztery różne pytania
-
-1. Czy system potrafi **opisać** cechę?
-2. Czy potrafi **przewidzieć** zachowanie?
-3. Czy potrafi **zmienić** prawdopodobieństwo zachowania?
-4. Czy potrafi zachowanie **kontrolować**?
-
-Nie wolno przechodzić między tymi poziomami bez dodatkowych dowodów.
-
-## Steelman
-
-Człowiek ma ograniczony dostęp introspekcyjny do procesów generujących własne decyzje. System z ogromną historią zachowań może wykrywać regularności, których osoba nie zauważa, a następnie wykorzystywać je w konkretnym zadaniu.
+## AI jako agent
+[[AI — narzędzie, agent czy podmiot]] dodaje odrębne pytanie: nawet system, który sam dobiera działania do celu, nie musi posiadać samowiedzy ani podmiotowości.
 
 ## Kontrargumenty
-
-- predykcja zachowania nie jest pełnym „poznaniem osoby”;
-- dane historyczne nie gwarantują stabilności preferencji;
-- model może wpływać na zachowanie, które mierzy;
-- optymalizacja metryki platformy nie jest tożsama z reprezentowaniem celu człowieka;
-- prywatne stany i kontekst mogą być niedostępne dla systemu;
-- relacja o możliwościach mikrotargetingu nie jest sama w sobie pomiarem efektu przyczynowego.
-
-## SYNTHESIS z Sapolskym, Kahnemanem, Wylie i warstwą AI
-
-- **Sapolsky** osłabia intuicję, że świadome „ja” jest pierwszą przyczyną decyzji.
-- **Kahneman** pokazuje ograniczenia introspekcji i procesy automatyczne.
-- **Harari** przenosi problem na instytucje posiadające dane.
-- **Wylie** daje opis konkretnej infrastruktury próbującej zamienić dane w selekcję bodźców.
-- [[Operacjonalizacja inteligencji]] przypomina, że „znać” system lub osobę trzeba rozbić na konkretne zadania predykcyjne.
-
-To nie dowodzi algorytmicznej wszechwiedzy. Uzasadnia natomiast traktowanie **asymetrii danych, sprzężeń zwrotnych i możliwości eksperymentowania na odbiorcach** jako problemu autonomii.
+- predykcja nie jest pełnym poznaniem osoby;
+- cechy i preferencje mogą być niestabilne;
+- korelacja może wykorzystywać artefakty zbioru danych;
+- model może zmieniać środowisko zachowania;
+- asymetria danych nie jest automatycznie kontrolą.
 
 ## Mosty
-
+- [[Prywatność inferencyjna]]
 - [[Mikrotargeting i profilowanie psychologiczne]]
 - [[Czy mikrotargeting podważa autonomię polityczną]]
-- [[Od danych do zachowania — Kahneman, Cialdini, Harari i Wylie]]
-- [[Prywatyzacja dyskursu publicznego]]
-- [[Paradoks Newcomba i precommitment]]
+- [[Od śladów cyfrowych do prywatności inferencyjnej — Kosiński, Wylie i Harari]]
 
 Up: [[Dane, algorytmy i władza MOC]]

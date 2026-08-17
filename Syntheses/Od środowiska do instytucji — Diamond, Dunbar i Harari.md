@@ -4,61 +4,47 @@ type: synthesis
 tags: [synthesis, history, evolution, institutions]
 reviewed: "2026-08-17"
 ---
-
 # Od środowiska do instytucji — Diamond, Dunbar i Harari
 
 ## Problem
-
 Czy społeczeństwa najlepiej wyjaśniać przez środowisko, biologię społeczną czy narracje?
 
-**SYNTHESIS:** te poziomy nie muszą konkurować. Mogą tworzyć stos przyczyn.
+**SYNTHESIS:** te poziomy nie muszą konkurować. Mogą tworzyć stos przyczyn i sprzężeń.
 
-## Trzy poziomy
-
+## Cztery warstwy
 ### Diamond — warunki materialne i ekologiczne
 [[Strzelby, zarazki, maszyny — Jared Diamond]] pyta o geograficzne warunki produkcji żywności, demografii, dyfuzji, technologii i chorób.
 
+### Patogeny i wektory — mediator bez intencji
+[[Jak komary zmieniły bieg historii]] daje mikromodel „zarazków” Diamonda: ekologia wektora może zmienić koszt wojny, kolonizacji i infrastruktury. Haiti, Afryka Zachodnia czy Kanał Panamski pokazują, że przewaga technologiczna nie działa w próżni epidemiologicznej.
+
 ### Dunbar — ograniczenia sieci społecznej
-[[Człowiek. Biografia — Robin Dunbar]] pyta, jak ekologia, czas, mózg i koszty więzi ograniczają możliwą organizację grup.
+[[Człowiek. Biografia — Robin Dunbar]] pyta, jak ekologia, czas, mózg i koszty więzi ograniczają organizację grup.
 
 ### Harari — symboliczna koordynacja
-[[21 lekcji na XXI wiek — Yuval Noah Harari]] i [[Niepowstrzymani — Yuval Noah Harari]] eksponują narracje, normy i tożsamości, które pozwalają koordynować ludzi ponad bezpośrednią więzią.
+[[21 lekcji na XXI wiek — Yuval Noah Harari]] i [[Niepowstrzymani — Yuval Noah Harari]] eksponują narracje, normy i tożsamości koordynujące ludzi ponad bezpośrednią więzią.
 
 ## Stos roboczy
-
-`ekologia / zasoby`
+`ekologia / patogeny / zasoby`
 ↓
-`produkcja żywności / demografia`
+`demografia / koszt przeżycia`
 ↓
 `skala i koszt sieci społecznej`
 ↓
-`język / normy / wspólne narracje`
+`język / normy / narracje`
 ↓
 `instytucje / państwa / organizacja`
 ↓
 `technologia i modyfikacja środowiska`
 ↺
 
-Ostatnia strzałka wraca do początku: instytucje i technologia zmieniają środowisko, więc model jest sprzężeniem zwrotnym, nie jednorazową sekwencją.
-
 ## Wartość
-
-Ta synteza chroni przed dwoma redukcjami:
-- **materialistyczną:** narracje i instytucje nie są tylko ozdobą nad ekologią;
-- **narracyjną:** opowieść nie usuwa ograniczeń energetycznych, demograficznych i ekologicznych.
-
-## Otwarte napięcia
-
-- Jak silna jest każda strzałka w różnych epokach?
-- Kiedy instytucja przełamuje wcześniejsze ograniczenie geograficzne?
-- Kiedy technologia zmienia „warunki startowe” na tyle, że model Diamonda traci moc predykcyjną?
+Synteza chroni przed redukcją materialistyczną i narracyjną. Dodatkowo pokazuje, że **sprawczość instytucjonalna może zmieniać warunki, które wcześniej wyglądały na geograficzny los**.
 
 ## Mosty
-
 - [[Łańcuch przyczyn środowiskowo-historycznych]]
 - [[Geografia a sprawczość w historii]]
 - [[Mózg społeczny]]
 - [[Narracja, mentalizacja i współpraca na dużą skalę]]
-- [[Narracja jako technologia społeczna]]
 
 Up: [[Człowiek i ewolucja MOC]]

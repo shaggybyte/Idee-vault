@@ -7,15 +7,19 @@ reviewed: "2026-08-17"
 
 # Dane, algorytmy i władza
 
+> [!important]
+> To **nie jest MOC techniczny o IT**. Algorytmy i AI występują tu jako element asymetrii wiedzy, władzy, autonomii, prywatności i organizacji społecznej.
+
 ## Dane jako asymetria
 
-- [[Algorytmy a samowiedza i autonomia]] — czy predykcja oznacza „znajomość człowieka”?
-- [[Mikrotargeting i profilowanie psychologiczne]] — od śladów danych do segmentu i przekazu.
-- [[Prywatyzacja dyskursu publicznego]] — gdy polityczny przekaz przestaje być wspólnie obserwowalny.
+- [[Algorytmy a samowiedza i autonomia]]
+- [[Prywatność inferencyjna]]
+- [[Mikrotargeting i profilowanie psychologiczne]]
+- [[Prywatyzacja dyskursu publicznego]]
 
 ## Sprzężenia zwrotne
 
-[[W sieci algorytmów — Copernicus]] dodaje do istniejącego grafu pętlę: preferencje → rekomendacje → środowisko ekspozycji → kolejne zachowania i preferencje. Z tego powodu model nie musi być tylko zewnętrznym obserwatorem użytkownika.
+[[W sieci algorytmów — Copernicus]] dodaje pętlę: preferencje → rekomendacje → środowisko ekspozycji → kolejne zachowania i preferencje. Model nie musi być tylko zewnętrznym obserwatorem użytkownika.
 
 ## Perswazja
 
@@ -23,27 +27,20 @@ reviewed: "2026-08-17"
 - [[Heurystyki i błędy poznawcze]]
 - [[Czy mikrotargeting podważa autonomię polityczną]]
 - [[Od danych do zachowania — Kahneman, Cialdini, Harari i Wylie]]
+- [[Od śladów cyfrowych do prywatności inferencyjnej — Kosiński, Wylie i Harari]]
 
-## AI
+## AI — tylko warstwa ideowa
 
 - [[Operacjonalizacja inteligencji]]
+- [[AI — narzędzie, agent czy podmiot]]
 - [[AI a odkrycie naukowe]]
 
-## Źródła książkowe
-
-- [[Mindfck — Christopher Wylie]]
-- [[21 lekcji na XXI wiek — Yuval Noah Harari]]
-- [[Pułapki myślenia — Daniel Kahneman]]
-- [[Wywieranie wpływu na ludzi — Robert Cialdini]]
-
-## Źródła YouTube
-
-Osobno: [[YouTube źródła MOC]].
+Materiały o kodowaniu agentów, kwantyzacji modeli, cybersecurity, API czy narzędziach nie należą do tego vaultu.
 
 ## Granica interpretacji
 
 Nie utożsamiaj:
-`danych → predykcji → perswazji → kontroli`.
+`danych → inferencji → predykcji → perswazji → kontroli`.
 Każda strzałka wymaga osobnego uzasadnienia.
 
 Up: [[Idee MOC]]
