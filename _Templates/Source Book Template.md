@@ -2,7 +2,7 @@
 title: "Source Book Template"
 type: book
 tags: [template]
-reviewed: "2026-08-13"
+reviewed: "2026-08-17"
 ---
 
 # {{title}}
@@ -14,7 +14,15 @@ reviewed: "2026-08-13"
 
 ## Mapa argumentu
 
-## Ograniczenia
+## Kotwice źródłowe — cytaty i fragmenty
+
+> Krótki, charakterystyczny fragment źródła.
+
+**Lokalizacja:** rozdział / podrozdział; strona, jeśli format ją wiarygodnie udostępnia.  
+**Dlaczego ważne:** co ten fragment pokazuje i do jakiego argumentu należy.  
+**Mosty:** [[Concept]], [[Debate]], [[Synthesis]], [[Inna książka]].
+
+## Ograniczenia i kontrfragmenty
 
 ## Integracja
 
