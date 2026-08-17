@@ -1,0 +1,60 @@
+---
+title: "Ideas Profile Extension"
+type: meta
+tags: [meta, standard]
+reviewed: "2026-08-13"
+---
+
+# Ideas Profile Extension
+
+Ta instrukcja **uzupełnia**, a nie zastępuje, `Instrukcja_agenta_bazy_wiedzy-v16.md` dla profilu Idee.
+
+## 1. Jednostka organizacji
+
+> **Podstawową jednostką organizacji vaultu Idee nie jest autor ani źródło, lecz pytanie, pojęcie lub spór.** Autorzy i książki są warstwą źródłową.
+
+## 2. Cztery warstwy
+
+1. `Concepts/` — względnie trwałe pojęcia.
+2. `Debates/` — mapy sporów, rozróżnień i konkurencyjnych stanowisk.
+3. `Syntheses/` — jawne wnioski łączące kilka źródeł.
+4. `Sources/` + `Thinkers/` — warstwa pochodzenia i nawigacji.
+
+## 3. Znaczniki pochodzenia
+
+W treści używaj, gdy jest to istotne:
+
+- **SOURCE CLAIM** — to rzeczywiście twierdzi źródło;
+- **INTERPRETATION** — tak rekonstruujemy znaczenie;
+- **EXTERNAL EVIDENCE** — niezależne źródła wspierają/korygują twierdzenie;
+- **SYNTHESIS** — wniosek agenta z wielu materiałów;
+- **OPEN QUESTION** — brak rozstrzygnięcia.
+
+## 4. Dodatkowe wartości `source_access`
+
+Oprócz standardu v16 dopuszcza się:
+
+- `discussed-only` — materiał był omawiany, ale nie było dostępu do jego treści;
+- `project-synthesis` — artefakt powstał w projekcie z kilku źródeł i nie jest źródłem pierwotnym.
+
+## 5. Nie atomizuj mechanicznie
+
+Nowa notatka powstaje wtedy, gdy będzie rzeczywistym węzłem wielokrotnego użytku. Nie rozbijaj jednej argumentacji na dziesiątki trzyzdaniowych plików tylko po to, aby graf wyglądał gęsto.
+
+## 6. Autor nie jest jednostką prawdy
+
+Nie przenoś automatycznie `autor twierdzi X` do `X jest prawdą`. Notatka kanoniczna powinna umożliwiać jednoczesne przechowanie tezy autora, korekty, kontrargumentu i aktualnego stanu dowodów.
+
+## 7. Synteza ma mieć granice
+
+Notatka `Syntheses/` powinna jasno pokazywać, które połączenie jest wkładem vaultu. Nie wkładaj własnej syntezy w usta jednego autora.
+
+## Szablony
+
+- [[Concept Template]]
+- [[Debate Template]]
+- [[Synthesis Template]]
+- [[Source Book Template]]
+- [[Thinker Template]]
+
+Up: [[Home]]
