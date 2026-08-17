@@ -2,7 +2,7 @@
 title: "Idee — mapa główna"
 type: moc
 tags: [idee, moc]
-reviewed: "2026-08-13"
+reviewed: "2026-08-17"
 ---
 
 # Idee — mapa główna
@@ -45,6 +45,11 @@ Ta mapa organizuje wiedzę według problemów, a nie według bibliotecznej kolej
 - [[Liberalizm jako szeroka narracja polityczna]]
 - [[Spójność ideologii politycznych]]
 - [[Ideologiczne sprzeczności jako konflikt wielu osi]]
+
+## Mosty przekrojowe między książkami
+
+- [[Mosty między książkami — mapa przekrojowa]] — centralna mapa: Taleb ↔ Sapolsky ↔ Kahneman ↔ Cialdini ↔ Dunbar ↔ Harari ↔ Erikson.
+- Każda pełnotekstowa notatka książkowa zawiera od v2 sekcję `Kotwice źródłowe — cytaty i fragmenty` oraz linki do Concepts / Debates / Syntheses.
 
 ## Źródła i autorzy
 
