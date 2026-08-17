@@ -2,7 +2,7 @@
 title: "Ideas Profile Extension"
 type: meta
 tags: [meta, standard]
-reviewed: "2026-08-13"
+reviewed: "2026-08-17"
 ---
 
 # Ideas Profile Extension
@@ -48,6 +48,19 @@ Nie przenoś automatycznie `autor twierdzi X` do `X jest prawdą`. Notatka kanon
 ## 7. Synteza ma mieć granice
 
 Notatka `Syntheses/` powinna jasno pokazywać, które połączenie jest wkładem vaultu. Nie wkładaj własnej syntezy w usta jednego autora.
+
+## 8. Kanoniczne repozytorium i wersjonowanie
+
+Repozytorium `shaggybyte/Idee-vault`, gałąź `main`, jest **kanoniczną roboczą wersją vaultu**.
+
+Przy każdej kolejnej pracy nad vaultem:
+
+1. zacznij od odczytania aktualnego stanu `main`, zamiast bazować na wcześniejszym ZIP-ie lub kopii z Biblioteki;
+2. wprowadzaj zmiany do wersji githubowej;
+3. po zakończeniu spójnego etapu pracy wykonaj commit i zapisz go na `main`;
+4. merytoryczne wydania oznaczaj kolejnymi wpisami `v2`, `v3`, ... w [[Vault Changelog]]; drobne poprawki techniczne lub workflow mogą pozostać w bieżącej wersji, jeśli nie zmieniają stanu wiedzy;
+5. nie generuj kolejnych ZIP-ów ani kopii do Biblioteki ChatGPT, chyba że użytkownik wyraźnie o nie poprosi;
+6. w podsumowaniu pracy podaj krótko, co zmieniono, numer wersji (jeśli wzrósł) oraz SHA końcowego commita.
 
 ## Szablony
 
