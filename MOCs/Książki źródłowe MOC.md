@@ -7,10 +7,11 @@ reviewed: "2026-08-17"
 
 # Książki źródłowe
 
-## Pełny tekst — przegląd v2 według reguły kotwic
+## Pełny tekst — zintegrowany według reguły kotwic
 
-Każda z poniższych notatek ma teraz: mapę argumentu, krótkie **kotwice źródłowe**, opis „dlaczego ważne” oraz mosty do innych warstw vaultu.
+Każda z poniższych notatek ma mapę argumentu, kotwice źródłowe, ograniczenia oraz mosty do innych warstw vaultu.
 
+### Rdzeń v1–v2
 - [[Antykruchość — Nassim Nicholas Taleb]]
 - [[Zdeterminowany — Robert M. Sapolsky]]
 - [[Pułapki myślenia — Daniel Kahneman]]
@@ -20,17 +21,27 @@ Każda z poniższych notatek ma teraz: mapę argumentu, krótkie **kotwice źró
 - [[Wywieranie wpływu na ludzi — Robert Cialdini]]
 - [[Otoczeni przez idiotów — Thomas Erikson]]
 
-## Tylko poruszone — bez udawanych cytatów
+### Dodane w v3
+- [[Mindfck — Christopher Wylie]]
+- [[Strzelby, zarazki, maszyny — Jared Diamond]]
+- [[Życie, piękna katastrofa — Jon Kabat-Zinn]]
 
-Pełnego tekstu poniższych książek nie odnaleziono w dostępnej Bibliotece podczas przeglądu v2. Notatki zostały sprawdzone pod kątem nowej reguły i **świadomie nie zawierają kotwic źródłowych**.
+## Tylko poruszone — bez udawanych cytatów
 
 - [[Sapiens — Yuval Noah Harari]]
 - [[Homo deus — Yuval Noah Harari]]
 - [[Przyjaciele — Robin Dunbar]]
 - [[Nowa historia ewolucji człowieka — Robin Dunbar]]
 
+Ich pełne teksty nie były dostępne przy odpowiednich importach, dlatego pozostają jawnie `discussed-only`.
+
+## Deduplicacja v3
+
+Ponownie dostarczone pliki Cialdiniego i Eriksona zostały porównane SHA-256 z wcześniej użytymi źródłami i okazały się identyczne bit po bicie. Nie tworzono duplikatów. Zob. [[Source Import v3]].
+
 ## Czytaj przekrojowo
 
-Najważniejsze połączenia pomiędzy książkami: [[Mosty między książkami — mapa przekrojowa]].
+- [[Mosty między książkami — mapa przekrojowa]]
+- [[Dane, algorytmy i władza MOC]]
 
 Up: [[Idee MOC]]

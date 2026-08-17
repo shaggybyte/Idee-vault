@@ -2,7 +2,7 @@
 title: "Umysł i poznanie — MOC"
 type: moc
 tags: [idee, moc]
-reviewed: "2026-08-13"
+reviewed: "2026-08-17"
 ---
 
 # Umysł i poznanie
@@ -13,14 +13,18 @@ reviewed: "2026-08-13"
 - [[Teoria perspektywy]] — asymetryczna reakcja na zyski i straty.
 - [[Intuicja ekspercka i spojrzenie z zewnątrz]] — kiedy ufać intuicji, a kiedy klasie odniesienia.
 - [[Mentalizacja]] — poznanie społeczne i zagnieżdżanie stanów umysłowych.
+- [[Uważność]] — trenowanie relacji do bieżącego doświadczenia bez natychmiastowego utożsamiania myśli z faktem.
 
 ## Połączenia
 - [[Od heurystyki do wpływu]]
+- [[Autopilot, narracyjne ja i przestrzeń reakcji]]
+- [[Od danych do zachowania — Kahneman, Cialdini, Harari i Wylie]]
 - [[Jak myśleć i działać pod głęboką niepewnością]]
 - [[Algorytmy a samowiedza i autonomia]]
 
 ## Źródła
 - [[Pułapki myślenia — Daniel Kahneman]]
+- [[Życie, piękna katastrofa — Jon Kabat-Zinn]]
 - [[Wywieranie wpływu na ludzi — Robert Cialdini]]
 - [[21 lekcji na XXI wiek — Yuval Noah Harari]]
 
