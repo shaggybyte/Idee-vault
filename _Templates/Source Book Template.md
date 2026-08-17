@@ -20,7 +20,7 @@ reviewed: "2026-08-17"
 
 **Lokalizacja:** rozdział / podrozdział; strona, jeśli format ją wiarygodnie udostępnia.  
 **Dlaczego ważne:** co ten fragment pokazuje i do jakiego argumentu należy.  
-**Mosty:** [[Concept]], [[Debate]], [[Synthesis]], [[Inna książka]].
+**Mosty:** wstaw rzeczywiste wikilinki do istniejących notatek `Concepts`, `Debates`, `Syntheses` i innych źródeł.
 
 ## Ograniczenia i kontrfragmenty
 
