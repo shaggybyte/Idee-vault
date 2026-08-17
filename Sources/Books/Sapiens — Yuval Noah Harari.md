@@ -2,7 +2,7 @@
 title: "Sapiens. Od zwierząt do bogów"
 type: book
 tags: [source, book]
-reviewed: "2026-08-13"
+reviewed: "2026-08-17"
 author: "Yuval Noah Harari"
 source_access: "discussed-only"
 status: "captured"
@@ -10,11 +10,19 @@ status: "captured"
 
 # Sapiens. Od zwierząt do bogów
 
+**Autor:** [[Yuval Noah Harari]]
+
 > [!warning] Zakres dostępu
-> **discussed-only** — źródło było poruszone w rozmowach projektu, ale jego pełna treść nie została odczytana podczas budowy v1.
+> **discussed-only** — książka była poruszana w rozmowach projektu, ale jej pełnego tekstu nie odnaleziono w dostępnej Bibliotece podczas przeglądu v2.
 
-Książka była poruszana jako ważny punkt odniesienia i lubiana synteza historii człowieka, ale pełny tekst nie był podstawą budowy v1.
+## Status względem reguły kotwic v2
 
-Ta notatka jest bibliograficznym znacznikiem, nie streszczeniem książki.
+Nie dodajemy cytatów ani szczegółowej rekonstrukcji rozdziałów bez dostępu do tekstu. Ta notatka jest świadomie bibliograficznym znacznikiem.
+
+Najbliższe pełnotekstowe źródła tego samego autora w vaulcie:
+- [[Niepowstrzymani — Yuval Noah Harari]] — prostsza rekonstrukcja tezy o opowieściach i współpracy;
+- [[21 lekcji na XXI wiek — Yuval Noah Harari]] — przeniesienie problemu narracji na współczesną politykę i technologię.
+
+**Mosty:** [[Narracja jako technologia społeczna]], [[Opowieści jako przewaga Homo sapiens]], [[Mosty między książkami — mapa przekrojowa]].
 
 Up: [[Książki źródłowe MOC]]
