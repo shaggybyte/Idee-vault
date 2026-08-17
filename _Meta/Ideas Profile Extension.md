@@ -62,6 +62,23 @@ Przy każdej kolejnej pracy nad vaultem:
 5. nie generuj kolejnych ZIP-ów ani kopii do Biblioteki ChatGPT, chyba że użytkownik wyraźnie o nie poprosi;
 6. w podsumowaniu pracy podaj krótko, co zmieniono, numer wersji (jeśli wzrósł) oraz SHA końcowego commita.
 
+## 9. Kotwice źródłowe i mosty między ideami
+
+Interesujące cytaty i krótkie fragmenty źródeł są **ważnym elementem vaultu**, ponieważ pozwalają później wrócić do rzeczywistego języka autora zamiast pamiętać wyłącznie syntezę agenta.
+
+Dla dobrze opracowanej książki lub ważnego materiału:
+
+1. dodawaj sekcję `Kotwice źródłowe — cytaty i fragmenty` z krótkimi, charakterystycznymi fragmentami; wybieraj fragmenty, które rzeczywiście niosą tezę, rozróżnienie, metaforę albo ważne zastrzeżenie;
+2. przy każdej kotwicy podawaj możliwie precyzyjną lokalizację: rozdział / podrozdział, a gdy format na to pozwala także stronę; nie wymyślaj numerów stron dla EPUB/MOBI;
+3. pod cytatem dodawaj krótkie `Dlaczego ważne:` oraz wikilinki do powiązanych `Concepts`, `Debates`, `Syntheses`, innych książek lub `Thinkers`;
+4. **cytat nie może wisieć sam** — ma być wejściem do grafu wiedzy, nie ozdobnikiem;
+5. aktywnie szukaj **mostów między źródłami**: podobnych mechanizmów opisanych innym językiem, napięć między autorami, zgodności na różnych poziomach oraz pozornych sprzeczności wynikających z różnych pytań;
+6. gdy połączenie między książkami jest wkładem vaultu, oznacz je jako **SYNTHESIS** i nie przypisuj go pojedynczemu autorowi;
+7. zachowuj ważne kontrfragmenty i zastrzeżenia autora, zwłaszcza gdy chronią jego stanowisko przed zbyt prostą interpretacją;
+8. nie zamieniaj notatki źródłowej w antologię. Cytaty mają wzmacniać mapę argumentu i połączenia, a nie zastępować streszczenie, krytykę i syntezę.
+
+Dobrą praktyką jest, aby pełnotekstowo dostępna książka miała kilka do kilkunastu mocnych kotwic, zależnie od jej znaczenia dla vaultu.
+
 ## Szablony
 
 - [[Concept Template]]
