@@ -2,7 +2,7 @@
 title: "Homo deus. Krótka historia jutra"
 type: book
 tags: [source, book]
-reviewed: "2026-08-13"
+reviewed: "2026-08-17"
 author: "Yuval Noah Harari"
 source_access: "discussed-only"
 status: "captured"
@@ -10,11 +10,15 @@ status: "captured"
 
 # Homo deus. Krótka historia jutra
 
+**Autor:** [[Yuval Noah Harari]]
+
 > [!warning] Zakres dostępu
-> **discussed-only** — źródło było poruszone w rozmowach projektu, ale jego pełna treść nie została odczytana podczas budowy v1.
+> **discussed-only** — pełnego tekstu nie odnaleziono w dostępnej Bibliotece podczas przeglądu v2.
 
-Źródło pojawia się jako wcześniejsza książka Harariego i kontekst dla 21 lekcji; v1 nie rekonstruuje jej argumentu z pamięci.
+## Status względem reguły kotwic v2
 
-Ta notatka jest bibliograficznym znacznikiem, nie streszczeniem książki.
+Nie rekonstruujemy argumentu z pamięci i nie dodajemy pozornie „dokładnych” cytatów. Kontekst, który można zweryfikować z pełnego źródła, znajduje się w [[21 lekcji na XXI wiek — Yuval Noah Harari]], gdzie Harari sam wskazuje *Homo deus* jako wcześniejsze, bardziej długoterminowe rozwinięcie problemu biotechnologii i technologii informacyjnej.
+
+**Mosty:** [[Algorytmy a samowiedza i autonomia]], [[Wolna wola jako założenie instytucjonalne]], [[Mosty między książkami — mapa przekrojowa]].
 
 Up: [[Książki źródłowe MOC]]
